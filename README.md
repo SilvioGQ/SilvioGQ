@@ -1,7 +1,7 @@
 ## Eae, tudo certo?👋
 - 📚 Faço o curso Técnico de Informática para Internet no IFRS - Campus Rio Grande
 - 🦽 Atualmente voluntário no desenvolvimento do app para acessibilidade Qlocal
-- e bolsista no desenvolvimento do jogo mobile Gorim
+- 💧 e bolsista no desenvolvimento do jogo mobile Gorim
 ### Linguagens e Frameworks:
 
 [<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
