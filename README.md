@@ -31,7 +31,7 @@
 
 ## Estatísticas no GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvioGQ&show_icons=true&count_private=true&theme=dracula)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvioGQ)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvioGQ&hide=contribs,prs)
 
 [email]: mailto:silvioquintana10@gmail.com
 [instagram]: https://www.instagram.com/silvioquintanarg/
