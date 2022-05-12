@@ -33,6 +33,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvioGQ&show_icons=true&count_private=true&theme=dracula)
 
 <br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioGQ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [email]: mailto:silvioquintana10@gmail.com
