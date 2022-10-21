@@ -1,7 +1,8 @@
 ## Eae, tudo certo?👋
-- 📚 Faço o curso Técnico de Informática para Internet no IFRS - Campus Rio Grande
-- 🦽 Atualmente voluntário no desenvolvimento do app para acessibilidade Qlocal
-- 💧 e bolsista no desenvolvimento do jogo mobile Gorim
+-  Faço o curso Técnico de Informática para Internet no IFRS - Campus Rio Grande
+- Desenvolvedor front-end na empresa AiRed Geotecnologias
+-  Atualmente voluntário no desenvolvimento do app para acessibilidade Qlocal
+-  e bolsista no desenvolvimento do jogo mobile Gorim
 ### Linguagens e Frameworks:
 
 [<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -40,13 +41,13 @@
 [instagram]: https://www.instagram.com/silvioquintanarg/
 [linkedin]: https://www.linkedin.com/in/s%C3%ADlvio-quintana-a71347211/
 
-<!-- [js]: https://github.com/VictorAmaral22/POO_Js
-[node]: https://github.com/VictorAmaral22/nodejs-studies
-[css]: https://github.com/VictorAmaral22/HTML-CSS
-[html5]: https://github.com/VictorAmaral22/HTML-CSS
-[react]: https://github.com/VictorAmaral22/reactJs
-[reactnative]: https://github.com/VictorAmaral22/ReactNative
-[sql]: https://github.com/VictorAmaral22/MySQL
-[mysql]: https://github.com/VictorAmaral22/MySQL
-[php]: https://github.com/VictorAmaral22/php-nodestudio
+<!-- [js]: https://github.com/SilvioGQ/POO_Js
+[node]: https://github.com/SilvioGQ/nodejs-studies
+[css]: https://github.com/SilvioGQ/HTML-CSS
+[html5]: https://github.com/SilvioGQ/HTML-CSS
+[react]: https://github.com/SilvioGQ/reactJs
+[reactnative]: https://github.com/SilvioGQ/ReactNative
+[sql]: https://github.com/SilvioGQ/MySQL
+[mysql]: https://github.com/SilvioGQ/MySQL
+[php]: https://github.com/SilvioGQ/php-nodestudio
 [git]: https://github.com/SilvioGQ/Git-cheats -->
