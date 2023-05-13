@@ -4,11 +4,11 @@
 
 -  Desenvolvedor front-end na empresa [Aired Geotecnologias](https://aired.com.br)
 
--  4º ano do curso de informática para internet.
+-  Formado no curso tecnico de informática para internet.
 
--  Atualmente voluntário no desenvolvimento do app para acessibilidade Qlocal
+-  voluntário/ex-bolsista no desenvolvimento do jogo mobile Gorim e do aplicativo Qlocal
 
--  e voluntário/ex-bolsista no desenvolvimento do jogo mobile Gorim
+-  Coordenador de projetos e equipes da startup [SIAPESQ](https://siapesq.com)
 
 -  Trabalho principalmente com **JavaScript, React Native, ReactJS **
 
