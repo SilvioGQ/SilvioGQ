@@ -2,11 +2,13 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá, eu sou o Sílvio Quintana</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SilvioGQ&color=red" alt="Profile views" /> </p>
 
+-  Estudante do curso de Administração.
+
 -  Desenvolvedor front-end na empresa [Aired Geotecnologias](https://aired.com.br) (2022-2023)
 
 -  Formado no curso tecnico de informática para internet.
 
--  voluntário/ex-bolsista no desenvolvimento do jogo mobile Gorim e do aplicativo Qlocal
+-  voluntário/ex-bolsista no desenvolvimento do jogo mobile Gorim e do aplicativo Qlocal (2020-2021)
 
 -  Coordenador de projetos e equipes da startup [SIAPESQ](https://siapesq.com) (2023)
 
